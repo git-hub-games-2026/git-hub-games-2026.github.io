@@ -4,8 +4,4 @@ Disallow:
 User-agent: Googlebot
 Allow: /
 
-# Allow AdSense-related resources
-Allow: /pagead/js/adsense/
-
-# Sitemap
-Sitemap: https://git-hub-games.github.io/sitemap.xml
+Sitemap: https://git-hub-games-2026.github.io/sitemap.xml
